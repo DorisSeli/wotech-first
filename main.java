@@ -24,8 +24,7 @@ public class Main {
       System.out.println("I do not recognize this season");
     }
 
-
-    
+ 
     double temp = -15.0;
 
     if (temp <= 5) {
@@ -41,6 +40,4 @@ public class Main {
       System.out.println("You need cooling");
     }
         }
-
-
     }
